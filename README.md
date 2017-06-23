@@ -1,1 +1,0 @@
-# M-Soma-Python-Bootcamp
